@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://github.com/SenticAC/SenticAC/blob/main/matrix%20(1).svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
   
 <p>
   <h1 align="center"><b>Hello there, I'm Otis 👋</b></h1>
