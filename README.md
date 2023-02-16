@@ -1,4 +1,4 @@
-  [![SacPng]([https://github.com/SenticAC/SenticAC/blob/main/sacc.png])
+
   
 <p>
   <h1 align="center"><b>Hello there, I'm Otis 👋</b></h1>
