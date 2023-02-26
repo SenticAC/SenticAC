@@ -15,8 +15,5 @@
 [<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### 📊 GitHub Stats:
-![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=SenticAC&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-
 [instagram]: https://www.instagram.com/senticanticheat/
 [github]: https://github.com/SenticAC
