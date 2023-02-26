@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to <b>Android application Development, Android Custom Operating System Development, Lua, Javascript, Typescript, Html, Css</b>
-- 📫 How to reach me: [@Vince.#6965][Discord] or say 👋 on Email at [Vibhor Chaudhary](mailto:senticanticheat@gmail.com)
+- 📫 How to reach me: [@Vince.#6965][Discord] or say 👋 on Email at [Sentic Anticheat](mailto:senticanticheat@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
 ### Connect with me:
@@ -18,8 +18,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+/>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
