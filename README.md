@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to <b>Android application Development, Android Custom Operating System Development, Lua, Javascript, Typescript, Html, Css</b>
+- Development, Lua, Javascript, Typescript, Html, Css</b>
 - 📫 How to reach me: [@Vince.#6965][Discord] or say 👋 on Email at [Sentic Anticheat](mailto:senticanticheat@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
