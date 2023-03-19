@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">Protecting the Integrity of Your Gaming Experience with Powerful Anti-Cheat Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1008135477666263081/1087019116113694720/sacc.png">
+<img align="right" alt="Coding" width="1000" src="https://cdn.discordapp.com/attachments/1008135477666263081/1087019116113694720/sacc.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senticac&label=Profile%20views&color=0e75b6&style=flat" alt="senticac" /> </p>
 
