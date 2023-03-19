@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vince</h1>
-<h3 align="center">Protecting the Integrity of Your Gaming Experience with Powerful Anti-Cheat Technology</h3>
+### Hi there, I'm Vince <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Coding" width="2500" src="https://cdn.discordapp.com/attachments/1008135477666263081/1087019116113694720/sacc.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senticac&label=Profile%20views&color=0e75b6&style=flat" alt="senticac" /> </p>
