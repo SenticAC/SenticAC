@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">Protecting the Integrity of Your Gaming Experience with Powerful Anti-Cheat Technology</h3>
-<img align="right" alt="Coding" width="1000" src="https://cdn.discordapp.com/attachments/1008135477666263081/1087019116113694720/sacc.png">
+<img align="right" alt="Coding" width="2500" src="https://cdn.discordapp.com/attachments/1008135477666263081/1087019116113694720/sacc.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senticac&label=Profile%20views&color=0e75b6&style=flat" alt="senticac" /> </p>
 
-- 📫 How to reach me: [@Vince.#6965][Discord] or say 👋 on Email: @senticanticheat@gmail.com **senticanticheat@gmail.com**
+- 🔭 I’m currently working on something really cool 😉
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on more open source projects.
+- Development, Lua, Javascript, Typescript, Html, Css</b>
+- 📫 How to reach me: [@Vince.#6965][Discord] or say 👋 on Email at [Sentic Anticheat](mailto:senticanticheat@gmail.com)
+- ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
