@@ -26,42 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://via.placeholder.com/300x200" alt="Project 1" width="100%" />
-        </a>
-        <p align="center">
-          Description of your first featured project. Highlight the key technologies used and its main features.
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://via.placeholder.com/300x200" alt="Project 2" width="100%" />
-        </a>
-        <p align="center">
-          Description of your second featured project. Explain what problem it solves and what makes it special.
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
-</div>
-
 ## Connect With Me
 
 <p align="center">
