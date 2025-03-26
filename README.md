@@ -52,28 +52,6 @@ I'm a passionate software engineer with expertise in building scalable web appli
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincetechdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vince's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincetechdev&layout=compact&theme=tokyonight&hide_border=true" alt="Vince's Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincetechdev&theme=tokyonight&hide_border=true" alt="Vince's GitHub Streak" />
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/vincetechdev/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vincetechdev&repo=project-name&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/vincetechdev/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vincetechdev&repo=another-project&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
